@@ -1,11 +1,5 @@
 ### Improving `ParticipantDirectory` Using Multiple `TreeMaps`
 
-**Branch name:** trees-prework-participants
-
-**RDE workfows:**
-* `rde wflow run trees-prework-participants-participantdirectorytest`
-* `rde wflow run trees-prework-participants-participanttest`
-
 Expected time required: 10 min
 
 In this exercise you will add functionality to the `ParticipantDirectory`
@@ -33,7 +27,7 @@ A second `TreeMap` using the integer attribute as the keys is shown in the
 right with `2` as the root, `1` as the left child, and `3` as the right child.
 
 ![Figure 1: Example showing multiple `TreeMaps` indexing the same
-  objects.](../../../../../../../../../resources/trees/MultipleTreeMaps.png)
+  objects.](./resources/trees/MultipleTreeMaps.png)
 
 *Figure 1: Example showing multiple `TreeMaps` indexing the same objects.*
 
